@@ -87,4 +87,4 @@ Contributions are always welcome! Please fork the repo, create a feature branch,
 
 ## 📜 License  
 
-This project is licensed under the **MIT License**.  
+This project is licensed under the Saurabh yadav.  
